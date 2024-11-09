@@ -77,9 +77,7 @@
                                     MOST in SERVICES
                                 </h2>
                                 <p class="main-slider-five__text">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                    tempor<br>
-                                    incididunt ut labore et dolore magna aliqua
+                                    We work on client trus with best of our skills and provide the best result.
                                 </p>
                                 <div class="main-slider-five__btn-box">
                                     <a class="thm-btn thm-btn--two" href="about.html">Discover More<span></span></a>
