@@ -105,7 +105,7 @@
                                 </h2>
                                 <p class="main-slider-five__text">
                                     DevTechEra offers cutting-edge solutions in Web & Software Development, Digital
-                                    Marketing, Graphic Designing, and Video Editing.<br>
+                                    Marketing, Graphic Designing, and Video Editing.
                                     We help your business grow with creative, results-driven strategies that make a real
                                     impact.
                                 </p>
